@@ -1,0 +1,19 @@
+* {
+  text-align: center;
+  font-size: 20px;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.container {
+  width: 75vw;
+}
+
+.text-input {
+  width: 50vw;
+  min-height: 25vw;
+}
+
+.submit-button {
+  background-color: aliceblue;
+  padding: 5px;
+}
